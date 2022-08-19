@@ -1,0 +1,3 @@
+command names
+>enterZaDungeon
+(creats dungon and enters it)
